@@ -2,6 +2,12 @@
 
 A responsive, single-page portfolio for **Bommidi Siva Rama Raju**, a student and aspiring software developer interested in software development, game development, and technology.
 
+## Portfolio
+
+[View the live portfolio](https://sivaramaraju1216.github.io/portiflio/)
+
+The live link will work after GitHub Pages is enabled for this repository.
+
 ## About
 
 The portfolio introduces Siva Rama Raju and presents his technical skills, areas of interest, and ongoing learning journey. It does not claim projects, certificates, or professional experience.
